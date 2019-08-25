@@ -1,0 +1,125 @@
+%%------NO COMPILAR-----------------%%
+%
+\section*{Trick-Links}
+%
+%%--------------------¿Que es LaTeX?---------------%%
+\href{https://www.latex-project.org/}{LaTeX - A document preparation system.}
+\href{https://ctan.org/}{CTAN - Comprehensive TeX Archive Network}
+\href{https://en.wikibooks.org/wiki/LaTeX}{WikiBooks: LaTeX}
+\href{https://www.overleaf.com/}{Overleaf, a Online LaTeX Editor}
+
+
+%%-----------Introducción a LaTeX--------------%%
+%
+\href{http://slides.com/zergiorubio/taller-latex/fullscreen\#/9}{Taller de LaTeX para alumn@s del DMCC - USACH, Sergio Rubio.}
+%
+Introducción a LaTeX: Alaminos, Martín, Merí (2012). 
+\url{https://www.ugr.es/~mmartins/material/latex_basico.pdf}
+%
+Documento Cientifico (Resumen de un gran documento e.g. book): División del documento, Índices, Glosario y unidades, referencias bibliográficas.
+\url{https://ondiz.github.io/cursoLatex/Contenido/10.DocumentoCientifico.html}
+%
+Manual Extenso: Edicion_de_Textos_Cientificos_con_LaTeX_Composicion_Graficos_Inkscape_y_Presentaciones_Beamer
+\url{https://www.researchgate.net/publication/321951869_Edicion_de_Textos_Cientificos_con_LaTeX_Composicion_Graficos_Inkscape_y_Presentaciones_Beamer}
+
+
+
+%%-------------TABLAS Y FIGURAS-----------------%%
+%
+Microsoft Excel Excel2LaTeX
+\url{}
+%
+LibreOffice Calc2LaTeX
+\url{http://calc2latex.sourceforge.net/install_oo20/}
+%
+Position de tablas, figuras, H.
+\url{https://www.overleaf.com/learn/latex/Positioning_images_and_tables}
+%
+Multirow and Multicolumn para Tablas
+\url{https://latexlive.files.wordpress.com/2009/04/tablas.pdf}
+%
+Insertar Imagenes en LaTeX.
+\url{https://es.overleaf.com/learn/latex/Inserting_Images}
+%
+Inclusión de figuras PDF, error solucionado: foundPDFversion <1.7>, but at most version <1.5> allowed<
+\url{https://tex.stackexchange.com/questions/52317/pdftex-warning-version-allowed}
+
+
+%%--------------Referencias bibliográficas BibTeX--------------%%
+Citar con bibtex
+\ur{https://www.overleaf.com/learn/latex/Bibliography_management_with_bibtex}
+%
+Citar webpages
+\url{https://tex.stackexchange.com/questions/3587/how-can-i-use-bibtex-to-cite-a-web-page}
+%
+Citar Url Bibtex generator online
+\url{http://www.citationmachine.net/bibtex/cite-a-website}
+\url{http://www.bibme.org/items/confirm}
+\url{https://truben.no/latex/bibtex/}
+%
+Tipos de documentos citados bibtex
+\url{https://web.archive.org/web/20060708113225/http://www.ecst.csuchico.edu/~jacobsd/bib/formats/bibtex.html}
+
+
+%%-----------------Ecuaciones---------------------%%
+%
+Generador de Ecuaciones Online
+\url{https://www.codecogs.com/latex/eqneditor.php}
+%
+Espacio en las ecuaciones
+\url{http://web.fi.uba.ar/~ssantisi/works/ecuaciones_en_latex/3_1_Espacios.html}
+%
+Ecuaciones y más
+\url{http://metodos.fam.cie.uva.es/~latex/apuntes/apuntes3.pdf}
+%
+Derivadas Parciales con el paquete diffcoeff
+\url{http://mirrors.ibiblio.org/CTAN/macros/latex/contrib/diffcoeff/diffcoeff.pdf}
+
+
+%%------------------Tikz------Diagramas hechos en LaTeX-------------------%%
+%
+Templates de Diagramas Tikz Online
+\href{http://www.texample.net/}{TeXample.net is a web site dedicated to the wonderful world of TeX and friends.}
+%
+Cambiar escala de un tikzpicture
+\url{https://tex.stackexchange.com/questions/26846/how-to-scale-a-tikzpicture-including-texts}
+%
+Texample, templates de flowchart (TikZ)
+\url{http://www.texample.net/tikz/examples/tag/flowcharts/}
+
+
+%%----------------Algunos Templates de Tesis-----------------------%%
+%
+\url{https://bitbucket.org/fgaray/clase-latex-memoria-diinf/src/master/}
+%
+\href{https://es.overleaf.com/latex/templates/tesis-universidad-de-santiago-de-chile-usach/fzqddzpkqxkq}{Sergio Rubio Pizzorno, Tesis Universidad de Santiago de Chile - USACH, DIINF.}
+%
+
+
+%%-----------Diapositivas para Presentaciones: Beamer------------------------%%
+%
+Tutorial de Beamer, Overleaf
+\url{https://es.overleaf.com/learn/latex/Beamer_Presentations:_A_Tutorial_for_Beginners_(Part_1)%E2%80%94Getting_Started}
+%
+Creando presentaciones con Beamer Edición de Textos Científicos con LaTeX, Nivel II
+\url{http://www4.ujaen.es/~jmmoreno/latex/clatex2.pdf}
+
+%%-----Otros---------------%%
+%
+Hyperref: Hiperlinks navigation toll and Contents in PDF.
+\url{https://www.overleaf.com/learn/latex/Hyperlinks}
+%
+Busqueda de documentos de investigación
+\url{https://sci-hub.tw/}
+\url{https://libgen.is/}
+
+
+%%--------------Listings-------Códigos de programación en LaTeX----------%
+Listings e.g. Octave, Python, Matlab
+\url{https://www.overleaf.com/learn/latex/Code_listing}
+\url{https://tex.stackexchange.com/questions/75116/what-can-i-use-to-typeset-matlab-code-in-my-document}
+\url{https://es.wikibooks.org/wiki/Manual_de_LaTeX/Listados_de_c%C3%B3digo/Listados_con_listings}
+%
+Integración numérica MATLAB
+\url{http://www.sc.ehu.es/sbweb/fisica3/numerico/integral/integral.html}
+%
